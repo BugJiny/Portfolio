@@ -1,0 +1,8 @@
+﻿  server.cpp
+C:\Users\bugna\OneDrive\Desktop\중간고사-select모델로 TCP_GUI채팅방 구현\LoginServer\ac\server.cpp(733,6): warning C4101: 'size' :참조되지 않은 지역 변수입니다.
+C:\Users\bugna\OneDrive\Desktop\중간고사-select모델로 TCP_GUI채팅방 구현\LoginServer\ac\server.cpp(958,62): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\bugna\OneDrive\Desktop\중간고사-select모델로 TCP_GUI채팅방 구현\LoginServer\ac\server.cpp(978,62): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\bugna\OneDrive\Desktop\중간고사-select모델로 TCP_GUI채팅방 구현\LoginServer\ac\server.cpp(1061,3): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\bugna\OneDrive\Desktop\중간고사-select모델로 TCP_GUI채팅방 구현\LoginServer\ac\server.cpp(706): warning C4715: 'PacketRecv': 모든 제어 경로에서 값을 반환하지는 않습니다.
+server.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/INCREMENTAL:NO' 사양으로 인해 무시됩니다.
+  ac.vcxproj -> C:\Users\bugna\OneDrive\Desktop\중간고사-select모델로 TCP_GUI채팅방 구현\LoginServer\Debug\Server.exe
